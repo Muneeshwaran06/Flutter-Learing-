@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237839673381",
+    "project_id": "audiocallapp-c0b19",
+    "storage_bucket": "audiocallapp-c0b19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237839673381:android:0ff902b856374df14d77cc",
+        "android_client_info": {
+          "package_name": "com.example.audio_call_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyCNx_6D3IwQdVoQ_3tSLs8jMJJCSMzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
